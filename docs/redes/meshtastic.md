@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Meshtastic en Quixote Network
+# Meshtastic
 
 ## ¿Qué es Meshtastic?
 
