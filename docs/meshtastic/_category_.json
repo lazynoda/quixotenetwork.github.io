@@ -1,0 +1,9 @@
+{
+  "label": "Meshtastic",
+  "position": 1,
+  "link": {
+    "slug": "meshtastic",
+    "type": "generated-index",
+    "description": "Documentación sobre Meshtastic de Quixote Network."
+  }
+}
