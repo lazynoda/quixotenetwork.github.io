@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# JS8Call
+# Introducción a JS8Call
 
 ## ¿Qué es JS8Call?
 
