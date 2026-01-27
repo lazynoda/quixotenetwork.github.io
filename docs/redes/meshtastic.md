@@ -56,6 +56,8 @@ Meshtastic aporta una base sólida para la comunicación local y regional, refor
 
 ## Participar
 
+👉 Grupo de Telegram: https://t.me/meshtastic_esp
+
 Cualquier persona interesada puede participar en la red Meshtastic de Quixote Network configurando su nodo conforme a la documentación de **Meshtastic.es** y utilizando el canal **Iberia**.
 
 Para coordinación, pruebas y soporte comunitario:
@@ -63,7 +65,7 @@ Para coordinación, pruebas y soporte comunitario:
 - Consulta las redes activas publicadas en esta web
 - Comparte tus experiencias y despliegues con la comunidad
 
-Grupo de Telegram: https://t.me/meshtastic_esp
 ---
+
 
 **Quixote Network** utiliza Meshtastic como una pieza fundamental para explorar comunicaciones malladas, abiertas y descentralizadas, siempre desde un enfoque responsable y colaborativo.
