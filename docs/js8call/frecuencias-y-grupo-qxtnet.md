@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 
-# Frecuencias y Grupo
+# 📶 Frecuencias y Grupo
 
 En Quixote Network operamos con JS8Call en distintas bandas y entornos, siempre respetando el marco legal aplicable a cada caso:
 
