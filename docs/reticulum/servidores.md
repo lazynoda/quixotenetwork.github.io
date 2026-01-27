@@ -1,7 +1,8 @@
-## Servidores Reticulum en Iberia
+# Servidores Reticulum en Iberia
 
 A continuación se listan algunos **interfaces TCP públicos** utilizados habitualmente para interconexión y propagación dentro de la red Reticulum de Iberia:
 
+```
 #Quixote
 [[RNS Spain Quixote]
     type = TCPClientInterface
@@ -44,3 +45,4 @@ A continuación se listan algunos **interfaces TCP públicos** utilizados habitu
   enabled = yes
   target_host = reticulum.bsdhell.com
   target_port = 4242
+```
