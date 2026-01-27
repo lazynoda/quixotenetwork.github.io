@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Quixote Network',
   tagline: 'Red Descentralizada de Comunicaciones',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/quixotenetwork.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -86,7 +86,7 @@ const config = {
         title: 'Quixote Network',
         logo: {
           alt: 'Quixote Network',
-          src: 'img/logo.svg',
+          src: 'img/quixotenetwork.png',
         },
         items: [
           {
@@ -123,12 +123,12 @@ const config = {
                 href: 'https://www.youtube.com/@QuixoteNetwork',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Telegram Meshtastic',
+                href: 'https://t.me/meshtastic_esp',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Telegram Banda Ciudadana',
+                href: 'https://t.me/banda_ciudadana',
               },
             ],
           },
