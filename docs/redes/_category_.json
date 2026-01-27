@@ -1,9 +1,0 @@
-{
-  "label": "Redes",
-  "position": 2,
-  "link": {
-    "slug": "redes",
-    "type": "generated-index",
-    "description": "Documentación sobre las Redes en Funcionamiento de Quixote Network."
-  }
-}
