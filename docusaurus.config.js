@@ -110,7 +110,7 @@ const config = {
             title: 'Documentación',
             items: [
               {
-                label: '¿Qué es Quixote Network?',
+                label: 'Introducción',
                 to: '/docs/intro',
               },
               {
