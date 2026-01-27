@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# 🦜 Configuración LoRa:
+# 🦜 Configuración LoRa
 
-Para los nodos LoRa en Iberia hemos llegado al acuerdo de utilizar la siguiente configuración para que haya total compatibilidad tanto entre nodos Reticulum, como que haya la mínima molestia entre otros nodos LoRa como pueden ser los de Meshtastic, APRS_LoRA o Meshcore.
+Para los nodos LoRa usados en Iberia hemos llegado al acuerdo de utilizar una configuración determinada y así conseguir haya una total compatibilidad entre todos los nodos de Reticulum. Pero también hemos buscado una configuración que genera la mínima interferencia entre otros nodos LoRa como pueden ser los de Meshtastic, APRS_LoRA o Meshcore.
 
 :::info
 - Frecuencia: 869.525 MHz
