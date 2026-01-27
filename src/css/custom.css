@@ -50,3 +50,13 @@
   position: relative;
   z-index: 1;
 }
+
+/* Letras en blanco para titulo central pagina principal */
+.hero--primary {
+  color: #ffffff;
+}
+
+.hero--primary .hero__title,
+.hero--primary .hero__subtitle {
+  color: #ffffff;
+}
