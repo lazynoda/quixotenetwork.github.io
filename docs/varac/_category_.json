@@ -1,9 +1,9 @@
 {
-  "label": "Reticulum",
+  "label": "VarAC",
   "position": 4,
   "link": {
-    "slug": "reticulum",
+    "slug": "varac",
     "type": "generated-index",
-    "description": "Documentación sobre Reticulum de Quixote Network."
+    "description": "Documentación sobre VarAC de Quixote Network."
   }
 }
