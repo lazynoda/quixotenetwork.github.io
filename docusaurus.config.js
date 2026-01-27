@@ -107,10 +107,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentación',
             items: [
               {
-                label: 'Tutorial',
+                label: '¿Qué es Quixote Network?',
                 to: '/docs/intro',
               },
               {
