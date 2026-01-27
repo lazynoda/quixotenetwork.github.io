@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introducción a Reticulum
+# 📘 Introducción a Reticulum
 
 ## ¿Qué es Reticulum?
 
