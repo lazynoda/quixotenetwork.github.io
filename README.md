@@ -1,6 +1,6 @@
 # Página Web colaborativa de Quixote Network
 
-Siéntete libre de enviar PR para añadir información interesante o realizar mejoras en la web: [https://quixote.info] .
+Siéntete libre de enviar PRs para añadir información interesante o realizar mejoras en la web: [https://quixote.info] .
 
 
 Si te gusta este proyecto y quieres ayudar:
