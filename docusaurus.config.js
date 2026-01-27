@@ -23,12 +23,12 @@ const config = {
   url: 'https://quixotenetwork.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/quixotenetwork-web/',
-  //baseUrl: '/',
+  //baseUrl: '/quixotenetwork-web/',
+  baseUrl: '/',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Quixote Network', // Usually your GitHub org/user name.
-  projectName: 'quixotenetwork-web', // Usually your repo name.
+  projectName: 'quixotenetwork.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
