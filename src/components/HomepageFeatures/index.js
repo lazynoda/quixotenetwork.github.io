@@ -4,32 +4,35 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Uso Libre',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Quixote Network es una red de comunicaciones abierta y de uso libre, 
+        diseñada para que cualquier persona interesada pueda participar, 
+        experimentar y colaborar sin barreras de entrada.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Experimentación',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Quixote Network es un espacio de experimentación, donde radioaficionados 
+        y aficionados a las comunicaciones participan mediante nodos y enlaces 
+        para explorar nuevas formas de comunicación, siempre dentro de la legalidad vigente.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Descentralización',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Quixote Network es una red de comunicaciones descentralizada, sin 
+        control central ni dependencias únicas, donde cada nodo actúa como 
+        parte activa del tejido que sostiene la red.
       </>
     ),
   },
