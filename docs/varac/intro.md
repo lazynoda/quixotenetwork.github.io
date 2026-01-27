@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 📡 VarAC en Quixote Network
+# 📡 Introducción a VarAC
 
 :::info En pocas palabras
 **VarAC** aporta comunicaciones digitales **HF fiables y estructuradas**, incluso cuando la propagación no acompaña.
@@ -53,6 +53,9 @@ VarAC no se utiliza de forma aislada, sino como parte de un **ecosistema más am
 
 Esta integración permite explorar **arquitecturas híbridas** y flujos de comunicación adaptables.
 
+:::tip Consejo
+Antes de participar en pruebas de VarAC, revisa la documentación oficial y asegúrate de que tu configuración de audio, CAT y potencia cumple con las buenas prácticas operativas.
+:::
 ---
 
 ## 🚀 ¿Cómo participar?
@@ -67,6 +70,26 @@ Para coordinar pruebas y conocer el estado de la red:
 :::success Participación responsable
 El uso de VarAC en Quixote Network se realiza con fines **experimentales**, respetando en todo momento la normativa vigente y las buenas prácticas de la radioafición.
 :::
+
+---
+## 🔗 Enlaces relacionados con VarAC
+
+### 🌐 Proyecto y documentación
+- **Web oficial de VarAC:** https://www.varac-hamradio.com/
+- **Sound Modem/TNC VARA HF:** https://rosmodem.wordpress.com/vara-hf/
+
+### 📥 Descargas
+- **VarAC (aplicación):** https://www.varac-hamradio.com/download
+- **VARA HF Modem:** https://rosmodem.wordpress.com/vara-hf/
+
+### 💬 Comunidad y soporte
+- **Foros y discusiones:**  https://groups.io/g/VARA-HF
+
+### 🧪 Recursos útiles
+- Guías de configuración y buenas prácticas
+- Integración VARA + VarAC + CAT
+- Ajustes de audio, niveles y latencias
+- Pruebas en condiciones de señal débil
 
 ---
 
