@@ -83,6 +83,7 @@ El uso de VarAC en Quixote Network se realiza con fines **experimentales**, resp
 - **VARA HF Modem:** https://rosmodem.wordpress.com/vara-hf/
 
 ### 💬 Comunidad y soporte
+- **Tema en Telegram:**  https://t.me/quixotenetwork/8
 - **Foros y discusiones:**  https://groups.io/g/VARA-HF
 
 ### 🧪 Recursos útiles
