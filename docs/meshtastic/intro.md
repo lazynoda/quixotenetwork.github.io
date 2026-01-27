@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introducción a Meshtastic
+# 📘 Introducción a Meshtastic
 
 ## ¿Qué es Meshtastic?
 
