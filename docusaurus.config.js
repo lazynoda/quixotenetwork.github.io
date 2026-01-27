@@ -113,18 +113,22 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
             ],
           },
           {
-            title: 'Community',
+            title: 'Comunidad',
             items: [
               {
                 label: 'Youtube',
                 href: 'https://www.youtube.com/@QuixoteNetwork',
               },
               {
-                label: 'Telegram Meshtastic',
-                href: 'https://t.me/meshtastic_esp',
+                label: 'Telegram Quixote Network',
+                href: 'https://t.me/quixotenetwork',
               },
               {
                 label: 'Telegram Banda Ciudadana',
@@ -133,15 +137,15 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Grupos Telegram',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Telegram Meshtastic',
+                href: 'https://t.me/meshtastic_esp',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/QuixoteNetwork/quixotenetwork-web',
+                label: 'Telegram Banda Ciudadana',
+                href: 'https://t.me/banda_ciudadana',
               },
             ],
           },
