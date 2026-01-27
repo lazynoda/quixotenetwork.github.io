@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Meshtastic
+# Introducción a Meshtastic
 
 ## ¿Qué es Meshtastic?
 
@@ -29,7 +29,6 @@ Para evitar duplicidades y mantener la información siempre actualizada, Quixote
 También es interesante que leas la documentación oficial del proyecto en:
 
 👉 **https://meshtastic.org**
-
 :::
 
 ---
