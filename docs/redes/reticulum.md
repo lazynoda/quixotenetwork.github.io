@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Reticulum en Quixote Network
+# Reticulum
 
 ## ¿Qué es Reticulum?
 
