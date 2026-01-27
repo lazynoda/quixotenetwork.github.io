@@ -40,8 +40,7 @@ Para coordinación, pruebas y soporte comunitario:
   https://unsigned.io/installing-rnode-firmware-on-supported-devices/
 
 ### 🌍 Mapas y estado de red
-- Mapa de nodos (España): https://spain.rmap.world/
+- Mapa de nodos: https://rmap.world/
 
-.
 
 
