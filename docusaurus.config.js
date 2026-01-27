@@ -131,8 +131,8 @@ const config = {
                 href: 'https://t.me/quixotenetwork',
               },
               {
-                label: 'Telegram Banda Ciudadana',
-                href: 'https://t.me/banda_ciudadana',
+                label: 'Ko-fi',
+                href: 'https://ko-fi.com/quixotesystems',
               },
             ],
           },
@@ -143,6 +143,10 @@ const config = {
                 label: 'Telegram Meshtastic',
                 href: 'https://t.me/meshtastic_esp',
               },
+               {
+                label: 'Telegram Reticulum',
+                href: 'https://t.me/reticulum_spain',
+              },
               {
                 label: 'Telegram Banda Ciudadana',
                 href: 'https://t.me/banda_ciudadana',
@@ -150,7 +154,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Quixote Network. Built with Docusaurus.`,
+        copyright: Comunidad de Quixote Network. Hecho con ❤️ y Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
