@@ -12,36 +12,6 @@ JS8Call permite establecer comunicaciones fiables incluso en condiciones de señ
 
 ---
 
-## Frecuencias y grupos de operación
-
-En Quixote Network operamos con JS8Call en distintas bandas y entornos, siempre respetando el marco legal aplicable a cada caso:
-
-### 📻 Banda ciudadana (CB)
-- **Frecuencia:** **27,265 MHz USB**
-- Uso experimental y coordinado
-- Ideal para pruebas locales, regionales e internacionales
-
-### 📡 Bandas de radioaficionado
-- **40 metros (7 MHz)**
-  - Frecuencia: 7.078 MHz USB
-- **20 metros**
-  - - Frecuencia: 14.078 MHz USB
-    - 
-Estas bandas permiten ampliar el alcance de la red y experimentar con propagación, enlaces de media y larga distancia, y comunicaciones en condiciones no ideales.
-
----
-
-## Grupo JS8Call: `@QXTNET`
-
-Todas las pruebas y comunicaciones dentro de la red se coordinan mediante el grupo:
-
-El uso de un grupo común permite:
-- Identificar fácilmente a los nodos y operadores de Quixote Network
-- Enviar mensajes dirigidos y anuncios a toda la red
-- Coordinar pruebas, enlaces y experimentos
-- Mantener coherencia dentro del ecosistema JS8Call
-
----
 
 ## ¿Qué aporta JS8Call a la red?
 
