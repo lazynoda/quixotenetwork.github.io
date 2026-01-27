@@ -32,3 +32,5 @@ Estas características permiten construir una red viva, distribuida y resiliente
 Cualquier persona interesada puede participar en las pruebas de JS8Call dentro de Quixote Network, ya sea como radioaficionado o desde otros ámbitos compatibles, siempre actuando dentro del marco legal correspondiente a la tecnología y banda utilizada.
 
 Para coordinarte con otros operadores y conocer el estado de la red:
+
+👉 Únete al grupo de Telegram de Quixote Network: https://t.me/quixotenetwork
