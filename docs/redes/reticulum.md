@@ -18,6 +18,8 @@ En **Quixote Network**, Reticulum se utiliza como una pieza clave para experimen
 
 La participación es abierta y colaborativa, fomentando el aprendizaje colectivo y el uso responsable de la tecnología.
 
+Grupo de Telegram: https://t.me/reticulum_spain
+
 ---
 
 ## Enlaces de interés
