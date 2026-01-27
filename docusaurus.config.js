@@ -83,9 +83,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Quixote Network',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Quixote Network',
           src: 'img/logo.svg',
         },
         items: [
@@ -97,7 +97,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/QuixoteNetwork/quixotenetwork-web',
             label: 'GitHub',
             position: 'right',
           },
@@ -119,8 +119,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@QuixoteNetwork',
               },
               {
                 label: 'Discord',
@@ -141,12 +141,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/QuixoteNetwork/quixotenetwork-web',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Quixote Network. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
