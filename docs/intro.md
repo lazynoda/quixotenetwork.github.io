@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# ¿Qué es Quixote Network?
+# Introducción
+
+## ¿Qué es Quixote Network?
 
 Quixote Network nace como una red de comunicaciones abierta, descentralizada y de uso libre, creada para quienes creen en la cooperación, la experimentación y la resiliencia como pilares fundamentales de las comunicaciones.
 
