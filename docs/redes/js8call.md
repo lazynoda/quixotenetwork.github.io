@@ -66,6 +66,8 @@ Para coordinarte con otros operadores y conocer el estado de la red:
 - Consulta las redes activas en esta web
 - Configura JS8Call y utiliza el grupo **@QXTNET**
 
+Grupo de Telegram: https://t.me/js8_espanol
+
 ---
 
 **Quixote Network** apuesta por JS8Call como una herramienta clave para explorar nuevas formas de comunicación distribuida, resiliente y colaborativa.
