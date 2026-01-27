@@ -45,8 +45,3 @@ La participación es abierta y colaborativa, fomentando el aprendizaje colectivo
 Dentro de Quixote Network se mantiene un **nodo Reticulum en España**, accesible para la comunidad y orientado a pruebas y uso experimental.
 
 
----
-
-## Servidores Reticulum en Iberia
-
-A continuación se listan algunos **interfaces TCP públicos** utilizados habitualmente para interconexión y propagación dentro de la red Reticulum:
