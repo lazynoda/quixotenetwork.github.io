@@ -2,46 +2,49 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# ¿Qué es Quixote Network?
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Quixote Network nace como una red de comunicaciones abierta, descentralizada y de uso libre, creada para quienes creen en la cooperación, la experimentación y la resiliencia como pilares fundamentales de las comunicaciones.
 
-## Getting Started
+Creemos que tener redes construidas desde nodos personales, no dependientes de grandes redes corporativas. Estamos convencidos de que necesitamos sistemas alternativos de comunicaciones donde cada enlace cuenta y donde la red sobrevive, evoluciona y se adapta gracias a la participación activa de quienes la forman.
 
-Get started by **creating a new site**.
+Quixote Network es un espacio de experimentación en comunicaciones, inspirado en el espíritu de la radioafición, el movimiento maker y el hacking. Es para gente abierta a la colaboración, responsable, educada y con ganas de adentrarse en nuevos ámbitos, siempre actuando dentro del marco legal y técnico correspondiente.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Defendemos la descentralización real, donde no existen dependencias únicas ni jerarquías obligatorias, y donde la continuidad de la red se apoya en su estructura mallada y recursiva, en el intercambio de conocimiento y en la diversidad de tecnologías empleadas.
 
-### What you'll need
+Apostamos por la experimentación práctica, en condiciones reales y no ideales, combinando radio, redes malladas, modos digitales y técnicas resilientes como base para aprender, innovar y mejorar las comunicaciones. Experimentamos tanto en entornos urbanos, como rurales o incluso en la más pura naturaleza, donde el aislamiento y las condiciones climatológicas son determinantes.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Quixote Network no es una infraestructura cerrada ni un servicio comercial.
+Es una red viva, en constante construcción, sostenida por los participantes y su voluntad de compartir, aprender y colaborar.
 
-## Generate a new site
+## ¿Cómo participar?
 
-Generate a new Docusaurus site using the **classic template**.
+Participar en Quixote Network es libre y abierto. La red se construye de forma colaborativa y cualquier persona interesada puede integrarse y aportar, ya sea aprendiendo, experimentando o desplegando nodos y enlaces compatibles.
 
-The classic template will automatically be added to your project after you run the command:
+### Canales de participación
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+La coordinación y el intercambio de información se realizan principalmente a través de grupos de Telegram (en el pie de esta web), que actúan como punto de encuentro para:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- Conocer la red y sus principios
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+- Compartir experiencias, pruebas y resultados
 
-## Start your site
+- Resolver dudas técnicas
 
-Run the development server:
+- oordinar experimentos, enlaces y despliegues
 
-```bash
-cd my-website
-npm run start
-```
+### Participación a través de la web
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+En esta misma web podrás:
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+- Consultar las redes y nodos ya desplegados
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Conocer los distintos entornos y tecnologías en uso
+
+- Identificar redes abiertas en las que puedes participar libremente
+
+- Acceder a documentación y recursos para comenzar
+
+La participación no requiere permisos previos ni registros cerrados.
+Cada persona se integra de forma responsable, respetando el marco legal y técnico correspondiente a las tecnologías que utilice.
+
