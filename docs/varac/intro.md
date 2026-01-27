@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 📡 Introducción a VarAC
+# 📘 Introducción a VarAC
 
 :::info En pocas palabras
 **VarAC** aporta comunicaciones digitales **HF fiables y estructuradas**, incluso cuando la propagación no acompaña.
