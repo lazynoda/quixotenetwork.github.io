@@ -67,6 +67,10 @@ Para coordinar pruebas y conocer el estado de la red:
 - 💬 Únete a los canales de coordinación de Quixote Network
 - 🧠 Comparte resultados, experiencias y mejoras con la comunidad
 
+Para coordinación, pruebas y soporte comunitario:
+
+👉 Únete al grupo de Telegram de Quixote Network: https://t.me/quixotenetwork
+
 :::success Participación responsable
 El uso de VarAC en Quixote Network se realiza con fines **experimentales**, respetando en todo momento la normativa vigente y las buenas prácticas de la radioafición.
 :::
