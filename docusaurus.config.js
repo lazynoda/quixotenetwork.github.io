@@ -123,7 +123,7 @@ const config = {
             title: 'Comunidad',
             items: [
               {
-                label: 'Youtube',
+                label: 'Canal de Youtube',
                 href: 'https://www.youtube.com/@QuixoteNetwork',
               },
               {
@@ -131,7 +131,7 @@ const config = {
                 href: 'https://t.me/quixotenetwork',
               },
               {
-                label: 'Ko-fi',
+                label: 'Apóyanos en Ko-fi',
                 href: 'https://ko-fi.com/quixotesystems',
               },
             ],
