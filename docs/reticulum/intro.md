@@ -38,10 +38,6 @@ La participación es abierta y colaborativa, fomentando el aprendizaje colectivo
 ### 🌍 Mapas y estado de red
 - Mapa de nodos (España): https://spain.rmap.world/
 
----
-
-## Nodo Reticulum en España (Quixote Network)
-
-Dentro de Quixote Network se mantiene un **nodo Reticulum en España**, accesible para la comunidad y orientado a pruebas y uso experimental.
+.
 
 
