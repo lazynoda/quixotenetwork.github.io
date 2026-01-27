@@ -28,3 +28,25 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.hero--primary {
+  background-image: url("/img/fondo-inicio-web.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  /* Oscurecer un poco para que el texto se lea bien */
+  position: relative;
+}
+
+.hero--primary::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+}
+
+.hero--primary > .container {
+  position: relative;
+  z-index: 1;
+}
