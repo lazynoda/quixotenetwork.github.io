@@ -1,19 +1,34 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+js8call:
+  label: JS8Call
+  permalink: /js8call
+  description: JS8Call tag description
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+meshtastic:
+  label: meshtastic
+  permalink: /meshtastic
+  description: Meshtastic tag description
 
-docusaurus:
+reticulum:
   label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+  permalink: /reticulum
+  description: Reticulum tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+banda_ciudadana:
+  label: Banda Ciudadana
+  permalink: /banda_ciudadana
+  description: Banda Ciudadana tag description
+
+vara:
+  label: VARA
+  permalink: /vara
+  description: VARA tag description
+
+varac:
+  label: VarAC
+  permalink: /varac
+  description: VarAC tag description
+
+bbs:
+  label: BBS
+  permalink: /bbs
+  description: bbs tag description
