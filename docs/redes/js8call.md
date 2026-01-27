@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # JS8Call
 
+## ¿Qué es JS8Call?
+
 En **Quixote Network** utilizamos **JS8Call** como una de las principales herramientas de comunicación digital, tanto para enlaces experimentales como para la construcción de redes resilientes basadas en radio.
 
 JS8Call permite establecer comunicaciones fiables incluso en condiciones de señal débil, lo que lo convierte en una pieza clave para escenarios de experimentación, redes malladas y comunicaciones de largo alcance.
