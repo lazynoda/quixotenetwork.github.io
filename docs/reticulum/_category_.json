@@ -1,0 +1,9 @@
+{
+  "label": "Reticulum",
+  "position": 4,
+  "link": {
+    "slug": "reticulum",
+    "type": "generated-index",
+    "description": "Documentación sobre Reticulum de Quixote Network."
+  }
+}
