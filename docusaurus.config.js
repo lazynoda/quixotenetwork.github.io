@@ -154,7 +154,8 @@ const config = {
             ],
           },
         ],
-        copyright: `Comunidad de Quixote Network. Hecho con ❤️ y Docusaurus.`,
+        copyright: 
+          `Comunidad de Quixote Network. Hecho con ❤️ y Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
