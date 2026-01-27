@@ -2,7 +2,7 @@ quixote:
   name: Quixote
   title: colaborador
   url: https://quixote.info
-  image_url: https://github.com/quixotesystems
+  image_url: https://github.com/quixotesystems.png
   page: true
   socials:
     github: quixotesystems
