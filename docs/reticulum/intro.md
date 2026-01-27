@@ -20,6 +20,10 @@ La participación es abierta y colaborativa, fomentando el aprendizaje colectivo
 
 👉 **Grupo de Telegram: https://t.me/reticulum_spain**
 
+Para coordinación, pruebas y soporte comunitario:
+
+👉 Únete al grupo de Telegram de Quixote Network: https://t.me/quixotenetwork
+
 ---
 
 ## Enlaces de interés
