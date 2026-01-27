@@ -63,6 +63,7 @@ Para coordinación, pruebas y soporte comunitario:
 - Consulta las redes activas publicadas en esta web
 - Comparte tus experiencias y despliegues con la comunidad
 
+Grupo de Telegram: https://t.me/meshtastic_esp
 ---
 
 **Quixote Network** utiliza Meshtastic como una pieza fundamental para explorar comunicaciones malladas, abiertas y descentralizadas, siempre desde un enfoque responsable y colaborativo.
