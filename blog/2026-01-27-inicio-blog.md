@@ -1,6 +1,6 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: inicio-blog
+title: Inicio Web y Blog
 authors: [quixote]
 tags: [quixote_network]
 ---
