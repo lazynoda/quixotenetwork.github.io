@@ -1,10 +1,15 @@
+quixote_network:
+  label: Quixote Network
+  permalink: /quixote_network
+  description: Quixote Network tag description
+
 js8call:
   label: JS8Call
   permalink: /js8call
   description: JS8Call tag description
 
 meshtastic:
-  label: meshtastic
+  label: Meshtastic
   permalink: /meshtastic
   description: Meshtastic tag description
 
