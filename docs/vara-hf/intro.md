@@ -1,5 +1,5 @@
 ---
-title: 📡 ¿Qué es VARA HF?
+title: 📘 Introducción
 description: Introducción a VARA HF como módem digital para comunicaciones de datos en HF, usado en BBS, Winlink y enlaces automáticos.
 sidebar_position: 10
 ---
