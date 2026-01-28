@@ -1,0 +1,32 @@
+---
+title: 📡 ¿Qué es VARA HF?
+description: Introducción a VARA HF como módem digital para comunicaciones de datos en HF, usado en BBS, Winlink y enlaces automáticos.
+sidebar_position: 10
+---
+
+# 📡 ¿Qué es VARA HF?
+
+**VARA HF** es un **módem digital para radio en bandas HF** que permite transmitir **datos de forma fiable y eficiente** a través de enlaces de radioaficionado, incluso en condiciones de propagación adversas.
+
+Está especialmente diseñado para:
+- 📦 **transferencia de datos** (no solo texto corto)
+- 🔁 **enlaces automáticos y desatendidos**
+- 🛰️ infraestructuras como **BBS híbridas** y **Winlink**
+
+---
+
+## 🧠 VARA HF en una frase
+> **VARA HF es un módem que actúa como puente entre aplicaciones digitales y la radio HF**, adaptándose dinámicamente a la calidad del canal.
+
+---
+
+## 🧩 ¿Qué tipo de software es VARA HF?
+
+Es importante entender su papel exacto:
+
+- ❌ **NO es una BBS**
+- ❌ **NO es un cliente de correo**
+- ❌ **NO es una aplicación “final”**
+
+✅ **VARA HF es una capa de transporte**, similar conceptualmente a un módem TCP/IP, que conecta:
+
