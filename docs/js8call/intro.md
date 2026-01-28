@@ -34,3 +34,5 @@ Cualquier persona interesada puede participar en las pruebas de JS8Call dentro d
 Para coordinarte con otros operadores y conocer el estado de la red:
 
 👉 Únete al grupo de Telegram de Quixote Network: https://t.me/quixotenetwork
+
+👉 También puedes ir al grupo de Telegram de JS8Call en Español: https://t.me/js8_espanol
