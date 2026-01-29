@@ -1,0 +1,9 @@
+{
+  "label": "Banda Ciudadana",
+  "position": 5,
+  "link": {
+    "slug": "banda-ciudadana",
+    "type": "generated-index",
+    "description": "Documentación sobre la Banda Ciudadana de Quixote Network."
+  }
+}
