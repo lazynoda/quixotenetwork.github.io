@@ -1,7 +1,7 @@
 ---
 title: 📮 BBS con VARA HF
 description: Cómo funcionan las BBS híbridas en HF usando VARA HF, LinBPQ/BPQ32 y clientes como VARA Terminal o QtTermTCP.
-sidebar_position: 40
+sidebar_position: 2
 ---
 
 import Tabs from '@theme/Tabs';
