@@ -1,4 +1,10 @@
-## 🌦️ Propagación en 27 Mhz - 11 m
+---
+title: 🌦️ Propagación en 27 Mhz
+description: Propagación en 11 .
+sidebar_position: 1
+---
+
+## 🌦️ Propagación en CB - 27 Mhz - 11 metros
 
 📡 1️⃣ Propagación por onda de superficie (local)
 - Distancia típica: 5 – 30 km
