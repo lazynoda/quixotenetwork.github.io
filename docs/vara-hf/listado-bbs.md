@@ -1,3 +1,10 @@
+---
+title: 📫 Listado BBS
+description: Listado de Servidores BBS
+sidebar_position: 3
+---
+
+
 # Lista de Servidores BBS accesibles por VARA HF
 
 Este documento agrupa nodos conocidos o puertos VARA HF que pueden servir como puntos de conexión para acceder a BBS vía HF usando VARA HF.  
