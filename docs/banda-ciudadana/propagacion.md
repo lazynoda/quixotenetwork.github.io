@@ -31,5 +31,5 @@ sidebar_position: 1
 - Frecuencia óptima: 3–30 MHz (afecta directamente a 11 m durante los picos de ciclo solar).
 - Condiciones ideales: alta actividad solar (SFI > 100).
 - Duración: variable, más frecuente durante el día y cerca del mediodía solar.
-- 
+  
 ---
