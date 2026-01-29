@@ -12,7 +12,7 @@ En **Quixote Network** utilizamos Meshtastic como una de las tecnologías clave 
 
 ---
 
-## Documentación y referencia oficial
+## Documentación y web de referencia en castellano
 
 Toda la documentación creada por la Comunidad de Meshtastic España, compuesta por información técnica, guías de configuración, normativa de uso y buenas prácticas se encuentra en:
 
