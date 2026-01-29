@@ -78,8 +78,7 @@ QtTermTCP es un cliente de terminal que se conecta a **BPQ por TCP**.
 - operar tu BBS remotamente (LAN/VPN)
 - administración o sesiones de prueba
 
-⚠️ Nota: QtTermTCP no es el módem HF.  
-Para HF necesitas **VARA** o un enlace radio que te lleve a BPQ.
+**Enlace de Descarga:** https://www.cantab.net/users/john.wiseman/Documents/QtTermTCP.html
 
   </TabItem>
   
@@ -96,6 +95,7 @@ Usado sobre todo en Windows, cómodo para HF porque integra:
 - Abres **VARA Terminal**
 - Configuras tu radio/audio
 - Conectas al callsign del nodo
+**Enlace de Descarga:** https://downloads.winlink.org/VARA%20Products/
 
 📌 Ideal si quieres algo “plug & play”.
 
