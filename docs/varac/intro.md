@@ -1,5 +1,7 @@
 ---
-sidebar_position: 4
+title: 📘 Introducción
+description: Introducción a VarAC como módem digital para comunicaciones de datos en HF, usando VARA HF como módem.
+sidebar_position: 1
 ---
 
 # 📘 Introducción a VarAC
