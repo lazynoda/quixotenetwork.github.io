@@ -16,15 +16,15 @@ import TabItem from '@theme/TabItem';
 ## 🧩 ¿Qué piezas intervienen?
 
 ### 🛰️ En el servidor (sysop)
-- 🧠 **LinBPQ (Linux)** o **BPQ32 (Windows)**  
+- **LinBPQ (Linux)** o **BPQ32 (Windows)**  
   Nodo + BBS + forwarding + usuarios + permisos.
-- 📶 **VARA HF** (módem)  
+- **VARA HF** (módem)  
   Transforma datos TCP en audio HF (USB) y viceversa.
-- 🖥️ PC + radio + interfaz de audio/PTT (rig control recomendado)
+- PC + radio + interfaz de audio/PTT (rig control recomendado)
 
 ### 💻 En el cliente (usuario)
-- 🔌 **VARA Terminal** (muy usado en Windows)  
-- 🧩 **QtTermTCP** (cliente ligero para conectarte por TCP a BPQ)
+- **VARA Terminal** (muy usado en Windows)  
+- **QtTermTCP** (cliente ligero para conectarte por TCP a BPQ)
 
 ---
 
@@ -32,14 +32,14 @@ import TabItem from '@theme/TabItem';
 
 Una BBS híbrida suele tener **varias “puertas” de entrada**:
 
-- 🧷 **HF por VARA** (enlace de radio)
-- 🌐 **TCP/IP** (si estás en red local/VPN/Internet)
-- 📡 **AX.25 / VHF/UHF** (según el nodo)
+- **HF por VARA** (enlace de radio)
+- **TCP/IP** (si estás en red local/VPN/Internet)
+- **AX.25 / VHF/UHF** (según el nodo)
 
 En esencia:
 
-> 📬 **BPQ gestiona el correo y el forwarding**  
-> 📶 **VARA solo es el “transporte” HF**
+> **BPQ gestiona el correo y el forwarding**  
+> **VARA solo es el “transporte” HF**
 
 ---
 
@@ -47,9 +47,9 @@ En esencia:
 
 ✅ Acciones típicas de usuario:
 - 📩 Leer y enviar **mensajes BBS**
-- 📦 Intercambiar correo entre BBS (forwarding)
-- 👥 Acceder a **CONV / CHAT** (según configuración)
-- 📚 Consultar **boletines**, anuncios, mensajes públicos
+- 📦 Intercambiar mensajes entre varios BBS (forwarding)
+- 👥 Acceder a **CHAT** (según configuración del BBS)
+- 📚 Consultar **Boletines**, anuncios, mensajes públicos
 - 🔗 Saltar a otros nodos/rutas (si hay red)
 
 > ⚠️ Ojo: No todas las BBS tienen los mismos servicios habilitados.
@@ -68,6 +68,21 @@ En esencia:
 ## 🧰 Clientes recomendados
 
 <Tabs>
+  <TabItem value="qtterm" label="🟩 QtTermTCP">
+  
+### 🟩 QtTermTCP (cliente por TCP a BPQ)
+QtTermTCP es un cliente de terminal que se conecta a **BPQ por TCP**.
+
+✅ Perfecto para:
+- conectarte a tu nodo si te exponen un puerto TCP
+- operar tu BBS remotamente (LAN/VPN)
+- administración o sesiones de prueba
+
+⚠️ Nota: QtTermTCP no es el módem HF.  
+Para HF necesitas **VARA** o un enlace radio que te lleve a BPQ.
+
+  </TabItem>
+  
   <TabItem value="vara-terminal" label="🟦 VARA Terminal">
   
 ### 🟦 VARA Terminal (cliente habitual)
@@ -85,26 +100,11 @@ Usado sobre todo en Windows, cómodo para HF porque integra:
 📌 Ideal si quieres algo “plug & play”.
 
   </TabItem>
-
-  <TabItem value="qtterm" label="🟩 QtTermTCP">
-  
-### 🟩 QtTermTCP (cliente por TCP a BPQ)
-QtTermTCP es un cliente de terminal que se conecta a **BPQ por TCP**.
-
-✅ Perfecto para:
-- conectarte a tu nodo si te exponen un puerto TCP
-- operar tu BBS remotamente (LAN/VPN)
-- administración o sesiones de prueba
-
-⚠️ Nota: QtTermTCP no es el módem HF.  
-Para HF necesitas **VARA** o un enlace radio que te lleve a BPQ.
-
-  </TabItem>
 </Tabs>
 
 ---
 
-## 🧑‍💻 Servidor: LinBPQ vs BPQ32
+## 🧑‍💻 Servidor: LinBPQ y BPQ32
 
 ### 🐧 LinBPQ (Linux)
 ✅ Muy usado en servidores 24/7 (Raspberry Pi, miniPC, VPS con radio remota)
@@ -117,7 +117,7 @@ Para HF necesitas **VARA** o un enlace radio que te lleve a BPQ.
 - interfaz conocida en entornos packet
 - buena compatibilidad con herramientas “legacy”
 
-> 🧠 Ambos comparten el mismo concepto: **nodo + BBS + rutas + puertos**.
+> 🧠 Ambos comparten el mismo concepto: **Nodo + BBS + Rutas + Puertos**.
 
 ---
 
@@ -142,21 +142,6 @@ Para HF necesitas **VARA** o un enlace radio que te lleve a BPQ.
 ✅ Para evitar pisadas:
 - Mantente cerca del “cluster” de nodos VARA, pero con separación mínima (50–100 Hz)
 
----
 
-## 🧷 Frecuencias: cómo se anuncian correctamente
 
-📌 **Siempre publica la frecuencia como DIAL (USB)**, por ejemplo:
 
-- `7049.40 kHz USB (DIAL) – VARA HF – BBS híbrida`
-
-> ℹ️ VARA trabaja en audio (centro ~1500 Hz), así que el “canal” real ocupa un bloque alrededor del dial.
-
----
-
-## 🔗 Enlaces relacionados
-
-- 🧠 **BPQ32 / LinBPQ**: documentación y comunidad BPQ
-- 📶 **VARA HF**: módem y herramientas asociadas
-- 💻 **QtTermTCP**: terminal TCP para nodos BPQ
-- 🛰️ Segmentos HF data (IARU Región 1): consulta siempre el plan de banda vigente
