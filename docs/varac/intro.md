@@ -1,6 +1,6 @@
 ---
 title: 📘 Introducción
-description: Introducción a VarAC como módem digital para comunicaciones de datos en HF, usando VARA HF como módem.
+description: Introducción a VarAC como módem digital para comunicaciones punto a punto de datos (texto y archivos) especialmente para HF, usando VARA HF como módem.
 sidebar_position: 1
 ---
 
@@ -12,9 +12,9 @@ sidebar_position: 1
 
 ## 🤔 ¿Qué es VarAC?
 
-**VarAC** es un sistema de comunicaciones digitales basado en **VARA HF**, diseñado para ofrecer **mensajería robusta, ordenada y eficiente** sobre radio, incluso en condiciones de propagación variables o degradadas.
+**VarAC** es un sistema de comunicaciones digitales basado en **VARA HF**, diseñado para ofrecer **mensajería e intercambio de archivos ligeros robusta, ordenada y eficiente** sobre radio, incluso en condiciones de propagación variables o degradadas.
 
-En **Quixote Network**, VarAC se utiliza como una herramienta clave para experimentar con **comunicaciones HF resilientes**, intercambio de mensajes asincrónicos y enlaces coordinados entre nodos, complementando otros sistemas como **JS8Call** y **Reticulum**.
+En **Quixote Network**, VarAC se utiliza como una herramienta clave para experimentar con **comunicaciones HF resilientes**, intercambio de mensajes asincrónicos y enlaces coordinados entre nodos, complementando otros sistemas como **JS8Call** y **BBS sobre VARAHF**.
 
 ---
 
@@ -22,10 +22,10 @@ En **Quixote Network**, VarAC se utiliza como una herramienta clave para experim
 
 El uso de VarAC en Quixote Network está orientado a:
 
-- 📶 Comunicaciones digitales fiables en **HF**
+- 📶 Comunicaciones digitales fiables en **HF** punto a punto
 - 📬 Mensajería estructurada entre nodos
-- 🔁 Enlaces **store-and-forward**
-- 🧪 Coordinación de pruebas y experimentos
+- 🔁 Enlaces **store-and-forward** de Mensajes (Vmail y Email)
+- 🧪 Uso de una Inteligencia Artificial desde HF
 - ⚙️ Escenarios donde se requiere mayor velocidad o fiabilidad que en modos de señal débil
 
 VarAC permite construir una **capa de comunicación práctica y eficiente**, especialmente útil cuando se necesita transferir información de forma controlada y ordenada.
@@ -49,7 +49,7 @@ Su uso está orientado a **pruebas reales**, no ideales, donde la propagación, 
 VarAC no se utiliza de forma aislada, sino como parte de un **ecosistema más amplio** de comunicaciones experimentales:
 
 - 🔊 Complementa a **JS8Call** en mensajería asincrónica
-- 🕸️ Puede integrarse con **Reticulum** como capa de transporte
+- 🕸️ Es un modo directo de comunicación punto a punto que complementa el uso del BBS
 - 🌐 Se combina con redes malladas y nodos distribuidos
 - 🛡️ Refuerza la **resiliencia global** de la red
 
@@ -57,6 +57,7 @@ Esta integración permite explorar **arquitecturas híbridas** y flujos de comun
 
 :::tip Consejo
 Antes de participar en pruebas de VarAC, revisa la documentación oficial y asegúrate de que tu configuración de audio, CAT y potencia cumple con las buenas prácticas operativas.
+Si tienes cualquier pregunta pregunta en el [Grupo de Telegram de Quixote Network](https://t.me/quixotenetwork/8)
 :::
 ---
 
