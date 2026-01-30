@@ -39,14 +39,15 @@ En España y gran parte de Europa:
 
 La CB dispone de **40 canales**, también conocidos como los 40 principales, espaciados cada 10 kHz. Aquí te dejamos los principales canales y sus usos habituales:
 
-| Canal | Frecuencia (MHz) | Modo     | Uso habitual |
-|------:|------------------|----------|         |
-| 1     | 26.965           |  Fonía   | General |
-| 9     | 27.065           |  Fonía   | Emergencias (convención) |
-| 19    | 27.185           |  Fonía   | Tráfico / carretera |
-| 25    | 27.245           |  JS9     | DX en JS8Call
-| 26    | 27.265           |  JS8     | @QXTNET.  |
-| 40    | 27.405           |  Fonía   | General / DX |
+| Canal | Frecuencia (MHz) | Modo  | Uso habitual               |
+|-------|-------------------|-------|---------------------------|
+| 1     | 26.965            | Fonía | General                   |
+| 9     | 27.065            | Fonía | Emergencias (convención)  |
+| 19    | 27.185            | Fonía | Tráfico / carretera       |
+| 25    | 27.245            | JS8   | DX en JS8Call             |
+| 26    | 27.265            | JS8   | @QXTNET                   |
+| 40    | 27.405            | Fonía | General / DX              |
+
 
 
 ### Modos más comunes
