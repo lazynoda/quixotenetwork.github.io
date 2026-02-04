@@ -29,6 +29,7 @@ Primeros pasos para empezar a utilizar Reticulum y Nomad Network:
   - MeshChat (Entorno Gráfico Multiplataforma): https://github.com/liamcottle/reticulum-meshchat
   - Sideband (sólo mensajería para Android): https://github.com/markqvist/Sideband
   - rBrowser (Aplicación web): https://github.com/fr33n0w/rBrowser
+  - Columba (para Android): https://github.com/torlando-tech/columba
 
 - Ahora ya puedes empezar a Explorar y Probar. Y sobre todo leer y preguntar 😉
 
