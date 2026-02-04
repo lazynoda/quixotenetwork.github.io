@@ -24,12 +24,13 @@ Primeros pasos para empezar a utilizar Reticulum y Nomad Network:
 - Configurar tu RNS con varios de estos Servidores RNS: https://quixote.info/docs/reticulum/servidores
   
 - Instalar un navegador para Nomad Network y/o Mensajería:
-  
+
+  - **MeshChat** (Entorno Gráfico Multiplataforma): https://github.com/liamcottle/reticulum-meshchat *(fácil uso, ideal para inciarse)*
+  - **Columba** (para Android): https://github.com/torlando-tech/columba *(fácil uso, ideal para inciarse)*
   - Nomadnet (Navegador en Línea de Comandos): https://github.com/markqvist/NomadNet
-  - MeshChat (Entorno Gráfico Multiplataforma): https://github.com/liamcottle/reticulum-meshchat
   - Sideband (sólo mensajería para Android): https://github.com/markqvist/Sideband
   - rBrowser (Aplicación web): https://github.com/fr33n0w/rBrowser
-  - Columba (para Android): https://github.com/torlando-tech/columba
+
 
 - Ahora ya puedes empezar a Explorar y Probar. Y sobre todo leer y preguntar 😉
 
