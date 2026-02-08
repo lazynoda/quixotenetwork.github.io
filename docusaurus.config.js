@@ -91,14 +91,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/fondo-inicio-web.png',
       colorMode: {
         respectPrefersColorScheme: true,
       },
       navbar: {
         title: 'Quixote Network',
         logo: {
-          alt: 'Quixote Network',
+          alt: 'Logo Quixote Network',
           src: 'img/quixotenetwork.png',
         },
         items: [
