@@ -35,14 +35,18 @@ La instalación es sencilla tanto en Windows como en Linux o MacOS y hay version
 
 :::tip
 Aquí te dejamos un video donde se explica su instalación en Windows y cómo configurarlo para que funcione con una radio de CB antigua:
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <iframe src="[https://www.youtube.com/embed/ID_DEL_VIDEO](https://www.youtube.com/embed/i8E6cnfSjDg?si=PKi9rbGjMs8mj2ET)"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
 
+<div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden" }}>
+  <iframe
+    src="https://www.youtube.com/embed/i8E6cnfSjDg?si=PKi9rbGjMs8mj2ET"
+    title="YouTube video player"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerPolicy="strict-origin-when-cross-origin"
+    allowFullScreen
+    style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%" }}
+  />
+</div>
 
 :::
 

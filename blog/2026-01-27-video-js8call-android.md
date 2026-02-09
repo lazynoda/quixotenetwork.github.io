@@ -7,6 +7,7 @@ tags: [js8call, android]
 
 Aquí os dejamos un nuevo video del Canal de Youtube donde se explica desde el inicio como instalar, configurar y usar la nueva App de JS8Call para Android:
 
+<!-- truncate -->
 
 <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden" }}>
   <iframe
