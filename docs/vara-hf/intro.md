@@ -144,7 +144,7 @@ Esto permite exprimir la banda HF sin perder fiabilidad.
 - 📥 **Winlink – Descargas oficiales**  
   https://winlink.org/content/software_downloads
 
-  - 💬 **Grupo de Telegram Quixote Network**  
+- 💬 **Grupo de Telegram Quixote Network**  
   https://t.me/quixotenetwork
 
 ---
