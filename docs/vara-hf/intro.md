@@ -36,6 +36,9 @@ Se adapta automáticamente a la **calidad del enlace de radio** (ruido, interfer
 
 Por eso en el esquema aparecen **niveles** con distintas combinaciones.
 
+<img width="882" height="368" alt="velocidad-VARA-HF" src="https://github.com/user-attachments/assets/ee3748c7-9735-4d62-a3fb-46676ad6894d" />
+
+
 ---
 
 ## 📡 Modos según ancho de banda
