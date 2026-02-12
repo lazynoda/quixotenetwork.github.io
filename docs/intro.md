@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Introducción
+# 📘 Introducción
 
 :::info En una frase
 **Quixote Network** es una red de comunicaciones **abierta**, **descentralizada** y **de uso libre**, orientada a la **experimentación** y a la **resiliencia**.
 :::
 
-## ¿Qué es Quixote Network?
+## ❓ ¿Qué es Quixote Network?
 
 Quixote Network nace para quienes creen en la **cooperación**, la **experimentación** y la **resiliencia** como pilares fundamentales de las comunicaciones.
 
@@ -18,7 +18,7 @@ Quixote Network es un espacio de experimentación inspirado en el espíritu de l
 
 ---
 
-## Nuestros pilares
+## 🧩 Nuestros pilares
 
 ### 👐 Uso libre
 Participar es abierto: cualquiera puede integrarse, aprender, aportar y experimentar, sin barreras innecesarias.
@@ -44,11 +44,11 @@ Es una red viva, en constante construcción, sostenida por los participantes y s
 
 ---
 
-## ¿Cómo participar?
+## 🫂 ¿Cómo participar?
 
 Participar en Quixote Network es libre y abierto. Puedes integrarte de forma gradual: desde aprender y observar, hasta desplegar nodos, enlaces o servicios compatibles.
 
-### Canales de participación
+### 🌐 Canales de participación
 
 La coordinación y el intercambio de información se realizan principalmente a través de los **grupos de Telegram** (en el pie de esta web), que actúan como punto de encuentro para:
 
