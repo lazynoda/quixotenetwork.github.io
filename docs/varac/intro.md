@@ -44,6 +44,65 @@ Su uso está orientado a **pruebas reales**, no ideales, donde la propagación, 
 
 ---
 
+# 📡 BBS en VarAC
+
+VarAC permite funcionar como un BBS sencillo y directo.  
+Solo necesitas seleccionar un directorio en tu PC y todos los archivos dentro de esa carpeta podrán ser descubiertos y descargados por otras estaciones.
+
+Puedes compartir:
+
+- 🖼️ Imágenes  
+- 🌦️ Informes meteorológicos  
+- 📜 Boletines en TXT  
+- 📄 Documentación técnica  
+- 📁 Cualquier archivo almacenado en el directorio compartido  
+
+---
+
+## ⚙️ Configuración del BBS
+
+En **Settings → BBS** debes definir tres parámetros básicos:
+
+- 📂 Directorio que deseas compartir  
+- 🔐 Si deseas limitar el acceso a indicativos específicos  
+- 📢 Si quieres anunciar tu BBS en el beacon  
+
+---
+
+## 🔄 Funcionamiento
+
+Cuando una estación conecta contigo, VarAC informa automáticamente de los servicios disponibles, incluido el BBS.
+
+> ⚠️ Ambas estaciones deben estar ejecutando VarAC versión 13.2 o superior.
+
+Para acceder al BBS:
+
+1. Hacer **QSY fuera de la frecuencia de llamada**.  
+2. Pulsar el botón **BBS** en el panel derecho.  
+3. VarAC consultará el directorio compartido y mostrará:
+   - 📄 Nombre del archivo  
+   - 🕒 Fecha de creación  
+   - 📦 Tamaño  
+
+Los archivos que superen el límite de descarga configurado en el cliente aparecerán en **rojo**, indicando que la transferencia puede tardar más tiempo.
+
+---
+
+## ⬇️ Descarga de archivos
+
+Para descargar un archivo:
+
+- Hacer **doble clic** sobre él.  
+- La transferencia comienza inmediatamente.  
+
+---
+
+## 🛰️ Uso dentro de redes descentralizadas
+
+El BBS de VarAC permite distribuir información directamente en HF sin necesidad de infraestructura externa, lo que lo convierte en una herramienta útil dentro de redes descentralizadas como Quixote Network.
+
+---
+
 ## 🔗 Integración con otras tecnologías
 
 VarAC no se utiliza de forma aislada, sino como parte de un **ecosistema más amplio** de comunicaciones experimentales:
@@ -87,7 +146,7 @@ El uso de VarAC en Quixote Network se realiza con fines **experimentales**, resp
 
 ### 📥 Descargas
 - **VarAC (aplicación):** https://www.varac-hamradio.com/download
-- **VARA HF Modem:** https://rosmodem.wordpress.com/vara-hf/
+- **VARA HF Modem:** https://downloads.winlink.org/VARA%20Products
 
 ### 💬 Comunidad y soporte
 - **Tema en Telegram:**  https://t.me/quixotenetwork/8
