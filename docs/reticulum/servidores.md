@@ -8,7 +8,7 @@ A continuación se listan algunos **interfaces TCP públicos** utilizados habitu
 
 ```
 #Quixote
-[[RNS Spain Quixote]
+[[RNS Spain Quixote]]
     type = TCPClientInterface
     enabled = yes
     target_host = reticulum.quixote.network
